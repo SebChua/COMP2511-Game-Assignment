@@ -1,2 +1,2 @@
 # COMP2511-Game-Assignment
-COMP2511 - Object Oriented Design and Programming
+Developed a simple Dungeon, grid-style game to learn Object Oriented design and principles using Java and JavaFX
